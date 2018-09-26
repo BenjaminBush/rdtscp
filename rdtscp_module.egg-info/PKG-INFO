@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rdtscp-module
+Version: 1.0
+Summary: C Extension for Python3 to call RDTSCP()
+Home-page: https://github.com/BenjaminBush/rdtscp
+Author: Benjamin Bush
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
